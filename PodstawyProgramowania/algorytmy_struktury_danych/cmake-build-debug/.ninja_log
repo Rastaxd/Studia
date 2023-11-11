@@ -1,0 +1,15 @@
+# ninja log v5
+0	728	7193147280448812	CMakeFiles/untitled3.dir/main.cpp.obj	cc7ed3eb4e7b5077
+5	745	7194951851153249	CMakeFiles/untitled3.dir/zad5.cpp.obj	1046c6b202b471d
+1	351	7195030849834399	build.ninja	5ace4e30cfd7b00a
+746	905	7194951852686220	untitled3.exe	d25a57e1bf520cab
+0	797	7194897467849883	CMakeFiles/untitled3.dir/zad2.cpp.obj	37cc3be923e0c48d
+6	873	7194896177171137	CMakeFiles/untitled3.dir/zad3.cpp.obj	51d48fc6b484cb58
+6	966	7194885705383040	CMakeFiles/untitled3.dir/zad7.cpp.obj	2ab0db2a9f9fc8dc
+7	954	7194938135787885	CMakeFiles/untitled3.dir/zad4.cpp.obj	46063b2437e2c7ad
+1	912	7198353263672843	CMakeFiles/untitled3.dir/zad6.cpp.obj	a6038fff4ebbb3a0
+916	1111	7198353265610989	untitled3.exe	1d5a905404d49139
+6	840	7198362774488885	CMakeFiles/untitled3.dir/zad6.cpp.obj	a6038fff4ebbb3a0
+842	998	7198362776004616	untitled3.exe	1d5a905404d49139
+7	766	7198364868591682	CMakeFiles/untitled3.dir/zad6.cpp.obj	a6038fff4ebbb3a0
+767	947	7198364870330332	untitled3.exe	1d5a905404d49139

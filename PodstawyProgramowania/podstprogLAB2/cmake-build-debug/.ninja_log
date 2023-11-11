@@ -1,0 +1,7 @@
+# ninja log v5
+1	153	7208021384556956	CMakeFiles/podstprogLAB2.dir/zad4.c.obj	9225fa7845d2bcf9
+0	227	7198334333835463	CMakeFiles/podstprogLAB2.dir/main.c.obj	24d847c2e8bdef87
+1	189	7198337460239548	CMakeFiles/podstprogLAB2.dir/zad2.c.obj	bff787a674cb70e
+118	279	7208025262324885	podstprogLAB2.exe	7e0e851539af8d5c
+1	225	7213054790661587	build.ninja	b673ca9fbf4545cb
+1	118	7208025260737460	CMakeFiles/podstprogLAB2.dir/zad5.c.obj	a6b2086651b4a0a7
