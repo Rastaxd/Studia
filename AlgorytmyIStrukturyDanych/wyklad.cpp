@@ -43,7 +43,7 @@ int naiveGCD(int a, int b ){
 }
 
 // sito erastotenesa
-/*
+
 void erastotenesSieve(int n){
     bool tab[n+1];
     for (int i = 0;i<=n;i++){
@@ -56,11 +56,11 @@ void erastotenesSieve(int n){
 
     }
     for (int i = 2; i <=n ; i++) {
-        if (tab[ixx`])
+        if (tab[ixx])
     }
 }
 // do dokonczenia
-*/
+
 // Fibonacciego
 int fib(int n){
     if (n == 0 || n == 1) return n;
@@ -123,7 +123,7 @@ cout <<horner_rec << endl
 //Algorytm dec2bin
 
 //Napis
-/* void dec2bin_str(int n) {
+ void dec2bin_str(int n) {
    string res = " ";
     while (n > 0) {
         res=to_string(n%2)+res;
@@ -131,9 +131,8 @@ cout <<horner_rec << endl
     }
     std::cout << res << std::endl;
 }
-*/
 
-//Dec2bin(tablica)
+//(tablica)
 void dec2bin_arr(int n) {
     int i = 0;
     int binary[8];
@@ -144,7 +143,7 @@ void dec2bin_arr(int n) {
 }
 
 // Bin2Dec
-void bin2dec_str (string n){
+int bin2dec_str (string n){
     int res = 0;
     int power = 1;
     for (int i = n.lenght()-1; i >= 0; i-- ){
