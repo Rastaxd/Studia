@@ -5,6 +5,5 @@
 #ifndef PODSTWPROGLAB5_MIN_VALUE_H
 #define PODSTWPROGLAB5_MIN_VALUE_H
 double min_value(double x, double y);
-double max_value(double a,double b);
 
 #endif //PODSTWPROGLAB5_MIN_VALUE_H

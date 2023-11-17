@@ -3,7 +3,8 @@ project(PodstwProgLab5)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PodstwProgLab5 main.c
-        min_value.h
-        min_value.c
+add_executable(PodstwProgLab5 zad2.c
+        codes.h
+        codes.c
+        zad3.c
 )
