@@ -1,7 +1,0 @@
-# ninja log v5
-2	210	7213353069431032	build.ninja	66dabb5cede6dce2
-4	133	7213249241619686	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	ec7d7a88e1745d58
-158	312	7213265216176640	PodstwProgLab5.exe	16c8f6986b9d431c
-9	120	7213259039262615	CMakeFiles/PodstwProgLab5.dir/plik_dodatkowy.c.obj	87e8bb21d5bfe55a
-21	142	7213265214519661	CMakeFiles/PodstwProgLab5.dir/min_value.c.obj	63a350c57f8756a2
-4	158	7213265214689790	CMakeFiles/PodstwProgLab5.dir/main.c.obj	4d03a237c060dd3c

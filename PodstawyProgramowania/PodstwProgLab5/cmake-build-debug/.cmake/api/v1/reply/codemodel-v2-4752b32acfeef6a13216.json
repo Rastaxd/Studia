@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Repositories/Studia/PodstawyProgramowania/PodstwProgLab5/cmake-build-debug",
-		"source" : "D:/Repositories/Studia/PodstawyProgramowania/PodstwProgLab5"
+		"build" : "C:/Repositories/Studia/PodstawyProgramowania/PodstwProgLab5/cmake-build-debug",
+		"source" : "C:/Repositories/Studia/PodstawyProgramowania/PodstwProgLab5"
 	},
 	"version" : 
 	{
