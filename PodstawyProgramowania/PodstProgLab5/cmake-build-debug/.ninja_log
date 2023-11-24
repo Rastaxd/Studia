@@ -1,0 +1,18 @@
+# ninja log v5
+2	210	7219327162387817	build.ninja	66dabb5cede6dce2
+4	133	7213249241619686	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	ec7d7a88e1745d58
+158	312	7213265216176640	PodstwProgLab5.exe	16c8f6986b9d431c
+11	179	7225155672401404	CMakeFiles/PodstwProgLab5.dir/codes.c.obj	81a3e1d30d44b6d7
+0	180	7225155672401404	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	977899f7eee646e9
+4	121	7225155728605022	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2
+12	132	7225158209148567	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	977899f7eee646e9
+3	134	7225160339089162	CMakeFiles/PodstwProgLab5.dir/codes.c.obj	81a3e1d30d44b6d7
+5	119	7225160481260321	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2
+3	154	7225175686196478	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	977899f7eee646e9
+11	158	7225175686255948	CMakeFiles/PodstwProgLab5.dir/codes.c.obj	81a3e1d30d44b6d7
+19	162	7225175686286905	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2
+8	166	7225175946532016	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2
+4	137	7225176025528386	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2
+4	151	7225178504995690	CMakeFiles/PodstwProgLab5.dir/zad2.c.obj	977899f7eee646e9
+14	154	7225178505015684	CMakeFiles/PodstwProgLab5.dir/codes.c.obj	81a3e1d30d44b6d7
+4	136	7225178681792316	CMakeFiles/PodstwProgLab5.dir/zad3.c.obj	71842bd82a62fec2

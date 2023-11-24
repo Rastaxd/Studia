@@ -1,0 +1,3 @@
+C:/Repositories/Studia/PodstawyProgramowania/AlgorytmyLAB5/cmake-build-debug/CMakeFiles/AlgorytmyLAB5.dir
+C:/Repositories/Studia/PodstawyProgramowania/AlgorytmyLAB5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Repositories/Studia/PodstawyProgramowania/AlgorytmyLAB5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
