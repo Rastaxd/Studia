@@ -3,4 +3,5 @@ project(PodstProgLab6 C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(PodstProgLab6 main.c)
+add_executable(PodstProgLab6
+        zad4.c)
