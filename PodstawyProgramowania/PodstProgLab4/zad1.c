@@ -12,7 +12,6 @@ int main(void){
         if(ch == ODSTEP){
             ++b;
         }
-
     }
     b+=1;
     printf("Liczba znakow wynosi %d,slow %d",a,b);
