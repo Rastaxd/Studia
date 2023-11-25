@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad6.cpp" "CMakeFiles/untitled3.dir/zad6.cpp.obj" "gcc" "CMakeFiles/untitled3.dir/zad6.cpp.obj.d"
+  "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad7.cpp" "CMakeFiles/untitled3.dir/zad7.cpp.obj" "gcc" "CMakeFiles/untitled3.dir/zad7.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

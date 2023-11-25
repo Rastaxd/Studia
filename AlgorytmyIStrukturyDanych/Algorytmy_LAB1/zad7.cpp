@@ -23,6 +23,7 @@ int main() {
             cout << (-1) * c / b << endl;
         }
     }else {
-        cout << "Liczba jest mniejsza od 0, przez co nie mozna wyliczyc pierwiastka." << endl;
+        cout << "Liczba jest mniejsza od 0." << endl;
     }
 }
+

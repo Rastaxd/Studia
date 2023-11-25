@@ -8,10 +8,6 @@ bool primeNumber(int a){
         i++;
     }
     return true;
-    if (primeNumber(a) == bool(true)){
-
-    }
-}
 
 int main(){
     int a;

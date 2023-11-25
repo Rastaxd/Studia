@@ -68,28 +68,28 @@ include CMakeFiles/untitled3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled3.dir/flags.make
 
-CMakeFiles/untitled3.dir/zad6.cpp.obj: CMakeFiles/untitled3.dir/flags.make
-CMakeFiles/untitled3.dir/zad6.cpp.obj: D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad6.cpp
-CMakeFiles/untitled3.dir/zad6.cpp.obj: CMakeFiles/untitled3.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled3.dir/zad6.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled3.dir/zad6.cpp.obj -MF CMakeFiles\untitled3.dir\zad6.cpp.obj.d -o CMakeFiles\untitled3.dir\zad6.cpp.obj -c D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad6.cpp
+CMakeFiles/untitled3.dir/zad7.cpp.obj: CMakeFiles/untitled3.dir/flags.make
+CMakeFiles/untitled3.dir/zad7.cpp.obj: D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad7.cpp
+CMakeFiles/untitled3.dir/zad7.cpp.obj: CMakeFiles/untitled3.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled3.dir/zad7.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/untitled3.dir/zad7.cpp.obj -MF CMakeFiles\untitled3.dir\zad7.cpp.obj.d -o CMakeFiles\untitled3.dir\zad7.cpp.obj -c D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad7.cpp
 
-CMakeFiles/untitled3.dir/zad6.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled3.dir/zad6.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad6.cpp > CMakeFiles\untitled3.dir\zad6.cpp.i
+CMakeFiles/untitled3.dir/zad7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled3.dir/zad7.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad7.cpp > CMakeFiles\untitled3.dir\zad7.cpp.i
 
-CMakeFiles/untitled3.dir/zad6.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled3.dir/zad6.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad6.cpp -o CMakeFiles\untitled3.dir\zad6.cpp.s
+CMakeFiles/untitled3.dir/zad7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled3.dir/zad7.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB1\zad7.cpp -o CMakeFiles\untitled3.dir\zad7.cpp.s
 
 # Object files for target untitled3
 untitled3_OBJECTS = \
-"CMakeFiles/untitled3.dir/zad6.cpp.obj"
+"CMakeFiles/untitled3.dir/zad7.cpp.obj"
 
 # External object files for target untitled3
 untitled3_EXTERNAL_OBJECTS =
 
-untitled3.exe: CMakeFiles/untitled3.dir/zad6.cpp.obj
+untitled3.exe: CMakeFiles/untitled3.dir/zad7.cpp.obj
 untitled3.exe: CMakeFiles/untitled3.dir/build.make
 untitled3.exe: CMakeFiles/untitled3.dir/linkLibs.rsp
 untitled3.exe: CMakeFiles/untitled3.dir/objects1.rsp

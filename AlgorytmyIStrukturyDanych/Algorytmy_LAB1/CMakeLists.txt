@@ -4,4 +4,4 @@ project(untitled3)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(untitled3
-        zad6.cpp)
+        zad7.cpp)

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled3.dir/zad6.cpp.obj"
-  "CMakeFiles/untitled3.dir/zad6.cpp.obj.d"
+  "CMakeFiles/untitled3.dir/zad7.cpp.obj"
+  "CMakeFiles/untitled3.dir/zad7.cpp.obj.d"
   "libuntitled3.dll.a"
   "untitled3.exe"
   "untitled3.exe.manifest"

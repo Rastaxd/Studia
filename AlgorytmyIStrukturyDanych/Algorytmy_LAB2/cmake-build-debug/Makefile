@@ -128,29 +128,29 @@ Algorytmy_LAB2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/build
 .PHONY : Algorytmy_LAB2/fast
 
-zad5.obj: zad5.cpp.obj
-.PHONY : zad5.obj
+main.obj: main.cpp.obj
+.PHONY : main.obj
 
 # target to build an object file
-zad5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.obj
-.PHONY : zad5.cpp.obj
+main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj
+.PHONY : main.cpp.obj
 
-zad5.i: zad5.cpp.i
-.PHONY : zad5.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-zad5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.i
-.PHONY : zad5.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-zad5.s: zad5.cpp.s
-.PHONY : zad5.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-zad5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.s
-.PHONY : zad5.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Algorytmy_LAB2.dir\build.make CMakeFiles/Algorytmy_LAB2.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Algorytmy_LAB2
-	@echo ... zad5.obj
-	@echo ... zad5.i
-	@echo ... zad5.s
+	@echo ... main.obj
+	@echo ... main.i
+	@echo ... main.s
 .PHONY : help
 
 

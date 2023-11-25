@@ -128,29 +128,29 @@ untitled3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/build
 .PHONY : untitled3/fast
 
-zad6.obj: zad6.cpp.obj
-.PHONY : zad6.obj
+zad7.obj: zad7.cpp.obj
+.PHONY : zad7.obj
 
 # target to build an object file
-zad6.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad6.cpp.obj
-.PHONY : zad6.cpp.obj
+zad7.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad7.cpp.obj
+.PHONY : zad7.cpp.obj
 
-zad6.i: zad6.cpp.i
-.PHONY : zad6.i
+zad7.i: zad7.cpp.i
+.PHONY : zad7.i
 
 # target to preprocess a source file
-zad6.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad6.cpp.i
-.PHONY : zad6.cpp.i
+zad7.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad7.cpp.i
+.PHONY : zad7.cpp.i
 
-zad6.s: zad6.cpp.s
-.PHONY : zad6.s
+zad7.s: zad7.cpp.s
+.PHONY : zad7.s
 
 # target to generate assembly for a file
-zad6.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad6.cpp.s
-.PHONY : zad6.cpp.s
+zad7.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\untitled3.dir\build.make CMakeFiles/untitled3.dir/zad7.cpp.s
+.PHONY : zad7.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... untitled3
-	@echo ... zad6.obj
-	@echo ... zad6.i
-	@echo ... zad6.s
+	@echo ... zad7.obj
+	@echo ... zad7.i
+	@echo ... zad7.s
 .PHONY : help
 
 

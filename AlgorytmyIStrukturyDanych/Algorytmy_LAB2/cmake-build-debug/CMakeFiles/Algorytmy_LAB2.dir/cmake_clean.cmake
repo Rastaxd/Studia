@@ -2,8 +2,8 @@ file(REMOVE_RECURSE
   "Algorytmy_LAB2.exe"
   "Algorytmy_LAB2.exe.manifest"
   "Algorytmy_LAB2.pdb"
-  "CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.obj"
-  "CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.obj.d"
+  "CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj"
+  "CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj.d"
   "libAlgorytmy_LAB2.dll.a"
 )
 
