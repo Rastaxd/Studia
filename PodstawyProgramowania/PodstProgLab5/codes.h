@@ -7,6 +7,7 @@
 double min_value(double x, double y);
 int silnia_loop(int n);
 int silnia_rek(int n);
-int verifyDec(int n);
-int greeting(int n);
+void dec2bin(int n);
+int greeting();
+void tryg(double n);
 #endif //PODSTWPROGLAB5_CODES_H

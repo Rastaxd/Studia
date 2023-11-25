@@ -19,29 +19,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da1c88ee-214b-4a27-9933-04741fee1102" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-befaf7ed10307ed43499.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-7c9a6a68978285a37415.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0d3ac05bc65ac5c1d6b9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-10T07-40-50-0968.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/zad3.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/zad4.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PodstProgLab4/.idea/PodstProgLab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab4/.idea/PodstProgLab4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PodstProgLab4/zad1.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab4/zad1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PodstProgLab5/zad4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a0e9e2fe896769713919.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-c37deb5063617816c2b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-fcaf719947e27b0ffbbf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-24T10-38-11-0640.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/.cmake/api/v1/reply/target-PodstwProgLab5-Debug-4b4aa076d00b6b868e20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/PodstwProgLab5.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/PodstwProgLab5.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/codes.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/codes.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/codes.h" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/codes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstProgLab5/zad3.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PodstProgLab5/zad3.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PodstwProgLab5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/CMakeDetermineCompilerABI_C1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/CMakeDetermineCompilerABI_CXX1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/a1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/a2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/a3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/untitled3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]/zad6.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/untitled3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_11_2023_17_44_[Changes]1/zad6.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-e92083686891682216f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4949c2eb703c170343de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-6b4d14322cea1279d22f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-23T16-36-56-0056.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled3.dir/zad6.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled3.cbp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,31 +114,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Repositories/Studia/PodstawyProgramowania/algorytmy_struktury_danych&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,6 +142,8 @@
       <updated>1700757411369</updated>
       <workItem from="1700757412391" duration="5647000" />
       <workItem from="1700844260323" duration="66000" />
+      <workItem from="1700844552736" duration="119000" />
+      <workItem from="1700927586500" duration="12000" />
     </task>
     <servers />
   </component>

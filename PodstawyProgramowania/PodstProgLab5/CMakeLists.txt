@@ -3,8 +3,8 @@ project(PodstwProgLab5)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(PodstwProgLab5 zad2.c
+add_executable(PodstwProgLab5
         codes.h
         codes.c
-        zad3.c
+        zad4.c
 )

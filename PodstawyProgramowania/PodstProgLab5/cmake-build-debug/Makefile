@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Repositories\Studia\PodstawyProgramowania\PodstwProgLab5
+CMAKE_SOURCE_DIR = D:\Repositories\Studia\PodstawyProgramowania\PodstProgLab5
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Repositories\Studia\PodstawyProgramowania\PodstwProgLab5\cmake-build-debug
+CMAKE_BINARY_DIR = D:\Repositories\Studia\PodstawyProgramowania\PodstProgLab5\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Repositories\Studia\PodstawyProgramowania\PodstwProgLab5\cmake-build-debug\CMakeFiles D:\Repositories\Studia\PodstawyProgramowania\PodstwProgLab5\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Repositories\Studia\PodstawyProgramowania\PodstProgLab5\cmake-build-debug\CMakeFiles D:\Repositories\Studia\PodstawyProgramowania\PodstProgLab5\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Repositories\Studia\PodstawyProgramowania\PodstwProgLab5\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\Repositories\Studia\PodstawyProgramowania\PodstProgLab5\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -152,53 +152,29 @@ codes.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/codes.c.s
 .PHONY : codes.c.s
 
-zad2.obj: zad2.c.obj
-.PHONY : zad2.obj
+zad4.obj: zad4.c.obj
+.PHONY : zad4.obj
 
 # target to build an object file
-zad2.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad2.c.obj
-.PHONY : zad2.c.obj
+zad4.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad4.c.obj
+.PHONY : zad4.c.obj
 
-zad2.i: zad2.c.i
-.PHONY : zad2.i
-
-# target to preprocess a source file
-zad2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad2.c.i
-.PHONY : zad2.c.i
-
-zad2.s: zad2.c.s
-.PHONY : zad2.s
-
-# target to generate assembly for a file
-zad2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad2.c.s
-.PHONY : zad2.c.s
-
-zad3.obj: zad3.c.obj
-.PHONY : zad3.obj
-
-# target to build an object file
-zad3.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad3.c.obj
-.PHONY : zad3.c.obj
-
-zad3.i: zad3.c.i
-.PHONY : zad3.i
+zad4.i: zad4.c.i
+.PHONY : zad4.i
 
 # target to preprocess a source file
-zad3.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad3.c.i
-.PHONY : zad3.c.i
+zad4.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad4.c.i
+.PHONY : zad4.c.i
 
-zad3.s: zad3.c.s
-.PHONY : zad3.s
+zad4.s: zad4.c.s
+.PHONY : zad4.s
 
 # target to generate assembly for a file
-zad3.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad3.c.s
-.PHONY : zad3.c.s
+zad4.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\PodstwProgLab5.dir\build.make CMakeFiles/PodstwProgLab5.dir/zad4.c.s
+.PHONY : zad4.c.s
 
 # Help Target
 help:
@@ -212,12 +188,9 @@ help:
 	@echo ... codes.obj
 	@echo ... codes.i
 	@echo ... codes.s
-	@echo ... zad2.obj
-	@echo ... zad2.i
-	@echo ... zad2.s
-	@echo ... zad3.obj
-	@echo ... zad3.i
-	@echo ... zad3.s
+	@echo ... zad4.obj
+	@echo ... zad4.i
+	@echo ... zad4.s
 .PHONY : help
 
 

@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "min_value.h"
 double min(double a, double b);
 
 double min(double a, double b){
@@ -20,7 +19,5 @@ int main() {
     scanf("%lf",&b);
     double result = min(a,b);
     printf("Najmniejsza liczba to: %.1lf", result);
-
-
     return 0;
 }

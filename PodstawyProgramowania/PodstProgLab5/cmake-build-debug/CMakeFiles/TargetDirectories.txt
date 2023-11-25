@@ -1,3 +1,3 @@
-C:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/PodstwProgLab5.dir
-C:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/PodstwProgLab5.dir
+D:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Repositories/Studia/PodstawyProgramowania/PodstProgLab5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
