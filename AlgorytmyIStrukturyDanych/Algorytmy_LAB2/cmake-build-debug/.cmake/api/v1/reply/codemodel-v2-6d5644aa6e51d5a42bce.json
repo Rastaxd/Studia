@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug",
-		"source" : "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2"
+		"build" : "C:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug",
+		"source" : "C:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2"
 	},
 	"version" : 
 	{

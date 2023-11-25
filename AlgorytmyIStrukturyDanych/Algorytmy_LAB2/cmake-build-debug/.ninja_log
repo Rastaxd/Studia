@@ -1,7 +1,4 @@
 # ninja log v5
 3	336	7211466557448881	CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj	e4ee5659698cd1e8
 339	414	7211500931186909	Algorytmy_LAB2.exe	63b75b52a2805c49
-0	145	7213052507174494	build.ninja	7e3c5ead95e20b5f
-3	333	7211490728339612	CMakeFiles/Algorytmy_LAB2.dir/zad3.cpp.obj	a3d92cdb9294726f
-2	336	7211495797921274	CMakeFiles/Algorytmy_LAB2.dir/zad4.cpp.obj	c151f46216c69ac0
-4	338	7211500930469928	CMakeFiles/Algorytmy_LAB2.dir/zad5.cpp.obj	862fd6d5299cde96
+0	145	7226418745582646	build.ninja	7e3c5ead95e20b5f
