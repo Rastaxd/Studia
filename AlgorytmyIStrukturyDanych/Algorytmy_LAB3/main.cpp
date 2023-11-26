@@ -1,7 +1,5 @@
 #include <stdio.h>
 int sum = 0,n = 30, i, j;
-
-
 int main()
 {
     for(j = 2; j <= n; j++){

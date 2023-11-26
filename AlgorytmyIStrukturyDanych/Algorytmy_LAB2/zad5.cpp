@@ -1,17 +1,21 @@
 #include <iostream>
+#include <math.h>
 
-bool primeNumber(int a){
-    int i = 2;
-    while(i*i<= a){
-        if (a%i == 0 )
-            return false;
-        i++;
-    }
-    return true;
+int n,t;
 
 int main(){
-    int a;
-    std::cout << "Sprawdzanie pierwszosci. Podaj liczbe do sprawdzenia: "<< std::endl;
-    std::cin >> a;
-    std::cout << "Czy liczba jest pierwsza?"<< primeNumber(a)<<std::endl;
+    std::cout<<"Podaj liczbe do sprawdzenia jej pierwszosci: "<<std::endl;
+    std:: cin>> n;
+    for (int i = 2; i <= sqrt(n) ; i++) {
+        if(n%i == 0){
+            t+=1;
+        }
+    }
+    if (t == 0){
+        std::cout<<"Liczba jest pierwsza"<<std::endl;
+    } else{
+        std::cout<<"Liczba nie jest pierwsza"<<std::endl;
+    }
+    return 0;
 }
+
