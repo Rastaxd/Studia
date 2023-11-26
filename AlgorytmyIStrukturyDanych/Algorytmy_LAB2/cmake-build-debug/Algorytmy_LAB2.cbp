@@ -82,7 +82,11 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+<<<<<<< HEAD
 		<Unit filename="D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/zad2.cpp">
+=======
+		<Unit filename="D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/zad5.cpp">
+>>>>>>> c561ef60676dfd0002d4b201ed2f28b9f30cc2f0
 			<Option target="Algorytmy_LAB2"/>
 		</Unit>
 		<Unit filename="D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/CMakeLists.txt">
