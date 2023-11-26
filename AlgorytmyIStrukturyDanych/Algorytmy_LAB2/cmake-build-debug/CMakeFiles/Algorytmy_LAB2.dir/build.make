@@ -68,28 +68,28 @@ include CMakeFiles/Algorytmy_LAB2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Algorytmy_LAB2.dir/flags.make
 
-CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj: CMakeFiles/Algorytmy_LAB2.dir/flags.make
-CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj: D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/main.cpp
-CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj: CMakeFiles/Algorytmy_LAB2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj -MF CMakeFiles\Algorytmy_LAB2.dir\main.cpp.obj.d -o CMakeFiles\Algorytmy_LAB2.dir\main.cpp.obj -c D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\main.cpp
+CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj: CMakeFiles/Algorytmy_LAB2.dir/flags.make
+CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj: D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB2/zad2.cpp
+CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj: CMakeFiles/Algorytmy_LAB2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj -MF CMakeFiles\Algorytmy_LAB2.dir\zad2.cpp.obj.d -o CMakeFiles\Algorytmy_LAB2.dir\zad2.cpp.obj -c D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\zad2.cpp
 
-CMakeFiles/Algorytmy_LAB2.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorytmy_LAB2.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\main.cpp > CMakeFiles\Algorytmy_LAB2.dir\main.cpp.i
+CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\zad2.cpp > CMakeFiles\Algorytmy_LAB2.dir\zad2.cpp.i
 
-CMakeFiles/Algorytmy_LAB2.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorytmy_LAB2.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\main.cpp -o CMakeFiles\Algorytmy_LAB2.dir\main.cpp.s
+CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Repositories\Studia\AlgorytmyIStrukturyDanych\Algorytmy_LAB2\zad2.cpp -o CMakeFiles\Algorytmy_LAB2.dir\zad2.cpp.s
 
 # Object files for target Algorytmy_LAB2
 Algorytmy_LAB2_OBJECTS = \
-"CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj"
+"CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj"
 
 # External object files for target Algorytmy_LAB2
 Algorytmy_LAB2_EXTERNAL_OBJECTS =
 
-Algorytmy_LAB2.exe: CMakeFiles/Algorytmy_LAB2.dir/main.cpp.obj
+Algorytmy_LAB2.exe: CMakeFiles/Algorytmy_LAB2.dir/zad2.cpp.obj
 Algorytmy_LAB2.exe: CMakeFiles/Algorytmy_LAB2.dir/build.make
 Algorytmy_LAB2.exe: CMakeFiles/Algorytmy_LAB2.dir/linkLibs.rsp
 Algorytmy_LAB2.exe: CMakeFiles/Algorytmy_LAB2.dir/objects1.rsp
