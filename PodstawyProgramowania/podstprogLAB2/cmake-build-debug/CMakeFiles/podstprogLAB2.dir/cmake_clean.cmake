@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/podstprogLAB2.dir/zad5.c.obj"
-  "CMakeFiles/podstprogLAB2.dir/zad5.c.obj.d"
+  "CMakeFiles/podstprogLAB2.dir/zad6.c.obj"
+  "CMakeFiles/podstprogLAB2.dir/zad6.c.obj.d"
   "libpodstprogLAB2.dll.a"
   "podstprogLAB2.exe"
   "podstprogLAB2.exe.manifest"

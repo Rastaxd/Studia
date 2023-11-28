@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad5.c">
+		<Unit filename="D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad6.c">
 			<Option target="podstprogLAB2"/>
 		</Unit>
 		<Unit filename="D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/CMakeLists.txt">
