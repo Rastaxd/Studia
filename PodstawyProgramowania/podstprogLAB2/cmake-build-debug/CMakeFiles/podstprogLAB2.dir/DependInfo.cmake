@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad5.c" "CMakeFiles/podstprogLAB2.dir/zad5.c.obj" "gcc" "CMakeFiles/podstprogLAB2.dir/zad5.c.obj.d"
+  "D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad6.c" "CMakeFiles/podstprogLAB2.dir/zad6.c.obj" "gcc" "CMakeFiles/podstprogLAB2.dir/zad6.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

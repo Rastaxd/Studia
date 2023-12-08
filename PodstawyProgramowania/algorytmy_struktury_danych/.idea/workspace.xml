@@ -19,23 +19,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da1c88ee-214b-4a27-9933-04741fee1102" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad7.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB1/zad7.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-73e0dd94b92263fa323d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ce0955331d4a2eeaeff2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-23T16-35-07-0735.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/.cmake/api/v1/reply/target-Algorytmy_LAB2-Debug-968e60de7ecb95ee5a83.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Algorytmy_LAB2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Algorytmy_LAB2.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Algorytmy_LAB2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Algorytmy_LAB2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Algorytmy_LAB2.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/zad5.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB2/zad5.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.cmake/api/v1/reply/cache-v2-96ebf9e62089a947c14c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-985085513303afae5100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-561a9e281cb154a61fb9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-17T14-05-57-0730.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.cmake/api/v1/reply/target-Algorytmy_LAB3-Debug-ee2c862474dfc6f2fba0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/Algorytmy_LAB3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/Algorytmy_LAB3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/linkLibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Algorytmy_LAB3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/zad3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../AlgorytmyIStrukturyDanych/Algorytmy_LAB3/zad3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4322f7f942df37da2750.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-dcfd902ecc0fb6d1fbfc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-26T21-52-30-0231.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/.cmake/api/v1/reply/target-podstprogLAB2-Debug-f6c7a58b15563443b33f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/CMakeFiles/podstprogLAB2.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/podstprogLAB2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/cmake-build-debug/podstprogLAB2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../podstprogLAB2/zad6.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../podstprogLAB2/zad6.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +126,7 @@
       <workItem from="1700844552736" duration="119000" />
       <workItem from="1700927586500" duration="12000" />
       <workItem from="1700937937043" duration="6000" />
+      <workItem from="1701200878676" duration="10000" />
     </task>
     <servers />
   </component>

@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "podstprogLAB2",
+					"name" : "Algorytmy_LAB3",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "podstprogLAB2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-podstprogLAB2-Debug-f6c7a58b15563443b33f.json",
-					"name" : "podstprogLAB2",
+					"id" : "Algorytmy_LAB3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Algorytmy_LAB3-Debug-e37191cef64834eb3486.json",
+					"name" : "Algorytmy_LAB3",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/cmake-build-debug",
-		"source" : "D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2"
+		"build" : "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB3/cmake-build-debug",
+		"source" : "D:/Repositories/Studia/AlgorytmyIStrukturyDanych/Algorytmy_LAB3"
 	},
 	"version" : 
 	{

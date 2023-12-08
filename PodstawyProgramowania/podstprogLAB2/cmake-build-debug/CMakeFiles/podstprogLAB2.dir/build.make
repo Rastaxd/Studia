@@ -68,28 +68,28 @@ include CMakeFiles/podstprogLAB2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/podstprogLAB2.dir/flags.make
 
-CMakeFiles/podstprogLAB2.dir/zad5.c.obj: CMakeFiles/podstprogLAB2.dir/flags.make
-CMakeFiles/podstprogLAB2.dir/zad5.c.obj: D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad5.c
-CMakeFiles/podstprogLAB2.dir/zad5.c.obj: CMakeFiles/podstprogLAB2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/podstprogLAB2.dir/zad5.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/podstprogLAB2.dir/zad5.c.obj -MF CMakeFiles\podstprogLAB2.dir\zad5.c.obj.d -o CMakeFiles\podstprogLAB2.dir\zad5.c.obj -c D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad5.c
+CMakeFiles/podstprogLAB2.dir/zad6.c.obj: CMakeFiles/podstprogLAB2.dir/flags.make
+CMakeFiles/podstprogLAB2.dir/zad6.c.obj: D:/Repositories/Studia/PodstawyProgramowania/podstprogLAB2/zad6.c
+CMakeFiles/podstprogLAB2.dir/zad6.c.obj: CMakeFiles/podstprogLAB2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/podstprogLAB2.dir/zad6.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/podstprogLAB2.dir/zad6.c.obj -MF CMakeFiles\podstprogLAB2.dir\zad6.c.obj.d -o CMakeFiles\podstprogLAB2.dir\zad6.c.obj -c D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad6.c
 
-CMakeFiles/podstprogLAB2.dir/zad5.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/podstprogLAB2.dir/zad5.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad5.c > CMakeFiles\podstprogLAB2.dir\zad5.c.i
+CMakeFiles/podstprogLAB2.dir/zad6.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/podstprogLAB2.dir/zad6.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad6.c > CMakeFiles\podstprogLAB2.dir\zad6.c.i
 
-CMakeFiles/podstprogLAB2.dir/zad5.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/podstprogLAB2.dir/zad5.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad5.c -o CMakeFiles\podstprogLAB2.dir\zad5.c.s
+CMakeFiles/podstprogLAB2.dir/zad6.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/podstprogLAB2.dir/zad6.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\Repositories\Studia\PodstawyProgramowania\podstprogLAB2\zad6.c -o CMakeFiles\podstprogLAB2.dir\zad6.c.s
 
 # Object files for target podstprogLAB2
 podstprogLAB2_OBJECTS = \
-"CMakeFiles/podstprogLAB2.dir/zad5.c.obj"
+"CMakeFiles/podstprogLAB2.dir/zad6.c.obj"
 
 # External object files for target podstprogLAB2
 podstprogLAB2_EXTERNAL_OBJECTS =
 
-podstprogLAB2.exe: CMakeFiles/podstprogLAB2.dir/zad5.c.obj
+podstprogLAB2.exe: CMakeFiles/podstprogLAB2.dir/zad6.c.obj
 podstprogLAB2.exe: CMakeFiles/podstprogLAB2.dir/build.make
 podstprogLAB2.exe: CMakeFiles/podstprogLAB2.dir/linkLibs.rsp
 podstprogLAB2.exe: CMakeFiles/podstprogLAB2.dir/objects1.rsp

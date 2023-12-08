@@ -128,29 +128,29 @@ podstprogLAB2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/build
 .PHONY : podstprogLAB2/fast
 
-zad5.obj: zad5.c.obj
-.PHONY : zad5.obj
+zad6.obj: zad6.c.obj
+.PHONY : zad6.obj
 
 # target to build an object file
-zad5.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad5.c.obj
-.PHONY : zad5.c.obj
+zad6.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad6.c.obj
+.PHONY : zad6.c.obj
 
-zad5.i: zad5.c.i
-.PHONY : zad5.i
+zad6.i: zad6.c.i
+.PHONY : zad6.i
 
 # target to preprocess a source file
-zad5.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad5.c.i
-.PHONY : zad5.c.i
+zad6.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad6.c.i
+.PHONY : zad6.c.i
 
-zad5.s: zad5.c.s
-.PHONY : zad5.s
+zad6.s: zad6.c.s
+.PHONY : zad6.s
 
 # target to generate assembly for a file
-zad5.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad5.c.s
-.PHONY : zad5.c.s
+zad6.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\podstprogLAB2.dir\build.make CMakeFiles/podstprogLAB2.dir/zad6.c.s
+.PHONY : zad6.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... podstprogLAB2
-	@echo ... zad5.obj
-	@echo ... zad5.i
-	@echo ... zad5.s
+	@echo ... zad6.obj
+	@echo ... zad6.i
+	@echo ... zad6.s
 .PHONY : help
 
 
