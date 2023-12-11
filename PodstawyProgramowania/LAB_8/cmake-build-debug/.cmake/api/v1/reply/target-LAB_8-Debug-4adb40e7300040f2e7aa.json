@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "AlgorytmyLAB5.exe"
+			"path" : "LAB_8.exe"
 		},
 		{
-			"path" : "AlgorytmyLAB5.pdb"
+			"path" : "LAB_8.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -38,25 +38,27 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-g -std=gnu11 -fdiagnostics-color=always"
 				}
 			],
-			"language" : "CXX",
+			"language" : "C",
 			"languageStandard" : 
 			{
 				"backtraces" : 
 				[
 					1
 				],
-				"standard" : "17"
+				"standard" : "11"
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
-	"id" : "AlgorytmyLAB5::@6890427a1f51a3e7e1df",
+	"id" : "LAB_8::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -74,10 +76,10 @@
 				"role" : "libraries"
 			}
 		],
-		"language" : "CXX"
+		"language" : "C"
 	},
-	"name" : "AlgorytmyLAB5",
-	"nameOnDisk" : "AlgorytmyLAB5.exe",
+	"name" : "LAB_8",
+	"nameOnDisk" : "LAB_8.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -89,7 +91,9 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2
 			]
 		}
 	],
@@ -98,7 +102,19 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "main.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "zad2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "bonus.c",
 			"sourceGroupIndex" : 0
 		}
 	],
