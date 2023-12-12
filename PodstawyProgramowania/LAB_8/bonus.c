@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 #include <stdbool.h>
-#define ODSTEP ' '
+#include <string.h>
 
 int main(){
 
@@ -19,12 +19,6 @@ int main(){
     struct rejsy seats[a];
     printf("Dostepne siedzenia:");
     for (int i = 0; i <= 15 ; i++) {
-        if(seats[i].name != ODSTEP) {
-            printf("%d. Siedzenie zajete");
-        }
-        else {
 
-            printf("%d. Siedzenie wolne");
-        }
     }
 }
