@@ -5,31 +5,19 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-void swap(int *l1, int *l2){
-    int temp = *l1;
-    *l1 = *l2;
-    *l2 = temp;
-};
 
-void bubbleSort(int arr[],int n) {
-    int i, j;
-    bool swapped;
-
-    for (i = 0; i < n - 1; i++) {
-        swapped = false;
-        for (int j = 0; j < n - i - 1; j++) {
-            if (arr[j] > arr[j + 1]) {
-                swap(&arr[j], &arr[j + 1]);
-                swapped = true;
+void bubbleSort(int *arr, int size) {
+    for (int i = 0; i < size - 1; i++) {
+        for (int j = 0; j < size - i - 1; j++) {
+            if (*(arr + j) > *(arr + j + 1)) {
+                int temp = *(arr + j);
+                *(arr + j) = *(arr + j + 1);
+                *(arr + j + 1) = temp;
             }
-        }
-
-        if (swapped = false) {
-            break;
-
         }
     }
 }
+
 
     void printArr(int arr[], int size) {
         int i;
@@ -43,7 +31,7 @@ int main(){
     int arr[] = { 64, 34, 25, 12, 22, 11, 90,60,45,50 };
     int n = sizeof(arr) / sizeof(arr[0]);
     bubbleSort(arr, n);
-    printf("Sorted array: \n");
+    printf("Posortowana tablica \n");
     printArr(arr, n);
     return 0;
 

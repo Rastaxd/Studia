@@ -1,7 +1,10 @@
 # ninja log v5
-3	65	7219349513958276	CMakeFiles/PodstProgLab6.dir/main.c.obj	8c335723787fbfa
-130	271	7225330595950928	PodstProgLab6.exe	346f5bdee32b8bb5
-4	128	7225330594565995	CMakeFiles/PodstProgLab6.dir/zad4.c.obj	a8ee8257d259ba16
-5	136	7225316938419969	CMakeFiles/PodstProgLab6.dir/zad3.c.obj	fb570454bca9475d
-4	138	7225292101833943	CMakeFiles/PodstProgLab6.dir/zad2.c.obj	c0cc9b2b98095d97
-1	168	7226418606115836	build.ninja	f4cde763459a9237
+2	69	7259137138251974	CMakeFiles/PodstProgLab6.dir/zad4.c.obj	a8ee8257d259ba16
+69	138	7259137138912841	PodstProgLab6.exe	346f5bdee32b8bb5
+0	80	7259139960140313	build.ninja	f4cde763459a9237
+1	76	7259132811481204	CMakeFiles/PodstProgLab6.dir/zad3.c.obj	fb570454bca9475d
+1	81	7259139960140313	build.ninja	f4cde763459a9237
+0	69	7259139961011290	CMakeFiles/PodstProgLab6.dir/zad5.c.obj	142ee8dbd8a41746
+69	138	7259139961664787	PodstProgLab6.exe	13f8a94f6c94534e
+2	65	7259140549024175	CMakeFiles/PodstProgLab6.dir/zad5.c.obj	142ee8dbd8a41746
+65	132	7259140549658658	PodstProgLab6.exe	13f8a94f6c94534e

@@ -19,9 +19,9 @@ int main(){
 
 }
 
-void merge(int* tab,int* sup_tab,int begin, int end, int middle){
+void merge(int* tab,int* sup_tab,int left, int right, int middle){
     int i = 0,j;
-    begin = i;
+    left = i;
     middle = middle + j;
-    end = sizeof(tab);
+    right = sizeof(tab);
 }

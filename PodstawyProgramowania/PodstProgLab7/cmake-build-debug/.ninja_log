@@ -1,0 +1,5 @@
+# ninja log v5
+2	152	7265801129158221	build.ninja	e3ed1cb16a71057f
+3	126	7265111847227647	CMakeFiles/PodstProgLab7.dir/zad2.c.obj	5c7142577b8bd52e
+62	121	7265758685596473	PodstProgLab7.exe	73019acd0efafc6f
+2	62	7265758685032956	CMakeFiles/PodstProgLab7.dir/zad3.c.obj	c28c82a4a06021a3
