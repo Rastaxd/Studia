@@ -6,14 +6,13 @@
 int main() {
     int tab[1999];
     std::ofstream file;
-    file.open("C:\\Users\\jakub\\Desktop\\Testy_algorytmy\\Losowe\\2000.txt");
-    std::string line = "Linia numer";
+    file.open(R"(C:\Users\jakub\Desktop\Testy_algorytmy\Losowe\2000.txt)");
 
     srand(static_cast<unsigned>(time(0))); // Inicjalizacja generatora liczb pseudolosowych
 
     for (int i = 0; i <= 1999; i++) {
-        int a = rand() % 50;
-        file << line << i << ": " << a << "\n";  // Dodano spację między numerem linii a liczbą pseudolosową
+        int a = rand() % 500;
+        file << a << "\n";  // Dodano spację między numerem linii a liczbą pseudolosową
     }
 
     file.close();

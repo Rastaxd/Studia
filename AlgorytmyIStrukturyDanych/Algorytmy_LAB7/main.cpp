@@ -3,8 +3,6 @@
 #include <chrono>
 #include <fstream>
 
-void selectionsort(int *tab,int size);
-
 int main() {
     std::fstream file;
     file.open("C:\\Users\\jakub\\Desktop\\Testy_algorytmy\\Losowe\\50.txt");
@@ -57,4 +55,27 @@ void quickSort(int tab[], int less, int more){
     while( l <= m );
     if( less < m) quickSort(tab,less, m);
     if (more > l) quickSort(tab,l, more);
+}
+
+void bubblesort(int *tab, int size) {
+    for (int i = 0; i < size - 1; i++){
+        for (int j = 0; j < size -1; j++){
+            if (tab[j] > tab [j + 1]){
+                std::swap(tab[j], tab[j + 1]);
+            }
+        }
+    }
+}
+
+void insertionsort(int *tab, int size){
+    int tmp;
+    for (int i = 1; i < size; i++){
+        tmp = tab[i];
+        int j = i - 1;
+        while(j >= 0 && tmp <= tab[j]){
+            tab[j+1] = tab[j];
+            j--;
+        }
+        tab[j+1] = tmp;
+    }
 }

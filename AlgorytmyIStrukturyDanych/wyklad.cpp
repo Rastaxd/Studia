@@ -173,7 +173,7 @@ void bubblesort(int *tab, int size) {
 }
 
 //Sortowanie przez wstawianie
-void insertionsord(int *tab, int size){
+void insertionsor(int *tab, int size){
     int tmp;
     for (int i = 1; i < size; i++){
         tmp = tab[i];
